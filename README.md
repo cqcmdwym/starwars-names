@@ -1,5 +1,7 @@
 # starwars-names
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cqcmdwym/starwars-names.svg)](https://greenkeeper.io/)
+
 [![travis build](https://img.shields.io/travis/cqcmdwym/starwars-names.svg?style=flat-square)](https://travis-ci.org/cqcmdwym/starwars-names/)
 [![codecov coverage](https://img.shields.io/codecov/c/github/cqcmdwym/starwars-names.svg?style=flat-square)](https://codecov.io/gh/cqcmdwym/starwars-names)
 [![version](https://img.shields.io/npm/v/starwars-names-cookie.svg?style=flat-square)](https://www.npmjs.com/package/starwars-names-cookie)
